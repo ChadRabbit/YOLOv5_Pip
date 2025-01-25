@@ -49,8 +49,7 @@ Output Video
 
     YOLO_pip.ipynb: Jupyter Notebook demonstrating car detection using YOLOv5.
     requirements.txt: Contains the list of Python dependencies for the project.
-    out_yolo.mp4: Sample output video showcasing the car detection results.
-    video_preview.png: Thumbnail image for the output video.
+    out_yolo.mp4: Sample output video showcasing the car detection results
     tracking_course:Contains the demo of images used for object detection
 
 ## Acknowledgements
