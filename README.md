@@ -1,7 +1,5 @@
 # YOLOv5
 
-https://github.com/user-attachments/assets/02b8ee9b-13f3-49b8-835f-8d655a9df383
-
 _Pip
 
 This project demonstrates how to use the YOLOv5 model to detect cars in images.
